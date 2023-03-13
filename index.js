@@ -37,7 +37,7 @@ client.login(TOKEN);
 // Listener
 client.on(Events.InteractionCreate, async interaction => {
     if (!interaction.isChatInputCommand()) return;
-    const command = interaction.client.commands.get(interaction-commandName)
+    const command = interaction.client.commands.get(interaction-commandName);
     if (!command) {
         console.log(`Comando não encontrado`);
         return;
@@ -47,6 +47,6 @@ client.on(Events.InteractionCreate, async interaction => {
     }
     catch (error) {
         console.error(error);
-        await interaction.reply({ content: 'Ocorreu um erro ao executar o comando.', ephemeral: true });
+        await interaction.reply('Ocorreu um erro ao executar o comando.');
     }
 });
