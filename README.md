@@ -12,7 +12,7 @@ Veja abaixo como ficaria com os textos de instalação ocultos por spoilers:
 
   Para instalar o Node.js no Windows, siga os seguintes passos:
 
-  1. Acesse o site oficial do Node.js em <https://nodejs.org/en/download/> e clique no botão "Windows Installer" para baixar o instalador.
+  1. Acesse o site oficial do Node.js em https://nodejs.org/en/download/ e clique no botão "Windows Installer" para baixar o instalador.
   2. Execute o arquivo baixado e siga as instruções do assistente de instalação.
   3. Após a conclusão da instalação, abra o prompt de comando e digite "node -v" para verificar se a instalação foi concluída com sucesso.
 
@@ -23,9 +23,9 @@ Veja abaixo como ficaria com os textos de instalação ocultos por spoilers:
 
   Para instalar o Node.js no Linux, siga os seguintes passos:
 
-  1. Abra o terminal e digite o seguinte comando para atualizar o gerenciador de pacotes: sudo apt-get update
-  2. Em seguida, digite o seguinte comando para instalar o Node.js: sudo apt-get install nodejs
-  3. Após a conclusão da instalação, digite "node -v" no terminal para verificar se a instalação foi concluída com sucesso.
+  1. Abra o terminal e digite o seguinte comando para atualizar o gerenciador de pacotes: `sudo apt-get update`
+  2. Em seguida, digite o seguinte comando para instalar o Node.js: `sudo apt-get install nodejs`
+  3. Após a conclusão da instalação, digite `node -v` no terminal para verificar se a instalação foi concluída com sucesso.
 
 </details>
 
@@ -34,11 +34,12 @@ Veja abaixo como ficaria com os textos de instalação ocultos por spoilers:
 
   Para instalar o Node.js no Mac, siga os seguintes passos:
 
-  1. Acesse o site oficial do Node.js em <https://nodejs.org/en/download/> e clique no botão "macOS Installer" para baixar o instalador.
+  1. Acesse o site oficial do Node.js em https://nodejs.org/en/download/ e clique no botão "macOS Installer" para baixar o instalador.
   2. Execute o arquivo baixado e siga as instruções do assistente de instalação.
   3. Após a conclusão da instalação, abra o terminal e digite "node -v" para verificar se a instalação foi concluída com sucesso.
 
 </details>
+
 
 ## Commandos
 
