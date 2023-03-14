@@ -1,6 +1,6 @@
 # Discord Bot
 
-Esta é um exemplo de um bot do Discord feito com Node.js. Foi criado com o objetivo de fornecer uma base para o desenvolvimento de bots, feito completamente para estudos e aprender com JavaScript, Node.JS e usando a documentação do
+Este é um exemplo de um bot do Discord feito com Node.js. Foi criado com o objetivo de fornecer uma base para o desenvolvimento de bots, feito completamente para estudos e aprender com JavaScript, Node.JS e usando a documentação do
 Discord.js.
 
 ## Instalação
