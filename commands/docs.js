@@ -6,12 +6,12 @@ const row = new ActionRowBuilder()
             .setCustomId("select")
             .setPlaceholder("Nenhuma linguagem selecionada")
             .addOptions({
-                label: "javascript",
+                label: "Javascript",
                 description: "Veja a documentação de Javascript",
                 value: "javascript"
                 },
                 {
-                    label: "python",
+                    label: "Python",
                     description: "Veja a documentação de Python",
                     value: "python"
                 },
@@ -21,7 +21,7 @@ const row = new ActionRowBuilder()
                     value: "csharp"
                 },
                 {
-                    label: "discord.js",
+                    label: "Discord.js",
                     description: "Veja a documentação de Discord.js",
                     value: "discordjs"
                 }
@@ -34,6 +34,6 @@ module.exports = {
         .setDescription("Acesse a documentação da tecnologia que quiser"),
 
     async execute(interaction) {
-        await interaction.reply({content: "Selecione uma das techs abaixo:", components: [row]})
+        await interaction.reply({content: "Selecione uma das tecnologias abaixo:"})
     }
 }
