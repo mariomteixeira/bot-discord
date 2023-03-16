@@ -43,7 +43,8 @@ Veja abaixo como ficaria com os textos de instalação ocultos por spoilers:
 
 ## Commandos
 
+- `/help` - Vê os comandos do bot dentro do servidor.
 - `/ping` - Vê a latencia entre o servidor e o bot.
 - `/git` - Relembra os comandos do git.
-- `/docs` - Create shortcuts to your documentations
-- `/playlist` - Listen to your music
+- `/docs` - Vê as documentações usadas no projeto do bot.
+- `/playlist` - Ouça músicas de estudo, feitas pela Lofi Beats.
